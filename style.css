@@ -308,6 +308,7 @@ section {
 .features .box-container .box:hover{
     outline: var(--outline-hover);
     outline-offset: 0rem;
+	border: 2px solid black;
 }
 
 .features .box-container .box img{
@@ -373,6 +374,7 @@ section {
 .products .product-slider .box:hover{
     outline: var(--outline-hover);
     outline-offset: 0rem;
+	border: 2px solid black;
 }
 
 .products .product-slider .box img{
@@ -408,6 +410,7 @@ section {
 .categories .box-container .box:hover{
     outline:var(--outline-hover);
     outline-offset: 0rem;
+	border: 2px solid black;
 }
 
 .categories .box-container .box img{
